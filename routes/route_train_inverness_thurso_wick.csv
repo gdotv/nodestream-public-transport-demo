@@ -1,0 +1,25 @@
+station1_id,Station1_name,station2_id,Station2_name,route_id
+1,Inverness,2,Beauly,train_3
+2,Beauly,3,Muir of Ord,train_3
+3,Muir of Ord,4,Dingwall,train_3
+4,Dingwall,5,Alness,train_3
+5,Alness,6,Invergordon,train_3
+6,Invergordon,7,Fearn,train_3
+7,Fearn,8,Tain,train_3
+8,Tain,9,Ardgay,train_3
+9,Ardgay,10,Culrain,train_3
+10,Culrain,11,Invershin,train_3
+11,Invershin,12,Lairg,train_3
+12,Lairg,13,Rogart,train_3
+13,Rogart,14,Golspie,train_3
+14,Golspie,15,Dunrobin Castle,train_3
+15,Dunrobin Castle,16,Brora,train_3
+16,Brora,17,Helmsdale,train_3
+17,Helmsdale,18,Kildonan,train_3
+18,Kildonan,19,Kinbrace,train_3
+19,Kinbrace,20,Forsinard,train_3
+20,Forsinard,21,Altnabreac,train_3
+21,Altnabreac,22,Scotscalder,train_3
+22,Scotscalder,23,Georgemas Junction,train_3
+23,Georgemas Junction,24,Thurso,train_3
+23,Georgemas Junction,25,Wick,train_3

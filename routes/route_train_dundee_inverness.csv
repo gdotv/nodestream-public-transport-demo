@@ -1,0 +1,25 @@
+station1_id,Station1_name,station2_id,Station2_name,route_id
+75,Dundee,76,Invergowrie,train_5
+76,Invergowrie,77,Perth,train_5
+77,Perth,78,Dunkeld & Birnam,train_5
+78,Dunkeld & Birnam,79,Pitlochry,train_5
+79,Pitlochry,80,Blair Atholl,train_5
+80,Blair Atholl,81,Dalwhinnie,train_5
+81,Dalwhinnie,82,Newtonmore,train_5
+82,Newtonmore,83,Kingussie,train_5
+83,Kingussie,84,Aviemore,train_5
+84,Aviemore,85,Carrbridge,train_5
+85,Carrbridge,1,Inverness,train_5
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
