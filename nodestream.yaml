@@ -1,0 +1,16 @@
+plugins: []
+scopes:
+  default:
+    pipelines:
+    - pipelines\train_lines.yaml
+    - pipelines\scotland_chart.yaml
+
+
+storage:
+  stores: []
+targets:
+  my-db:
+    database: neptune
+    host: [host]
+    mode: database
+    region: [region]]
