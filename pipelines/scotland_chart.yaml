@@ -1,0 +1,14 @@
+- implementation: nodestream.pipeline.extractors:FileExtractor
+  factory: local
+  arguments:
+    globs:
+      - 'data/Stations.csv'
+- implementation: nodestream.interpreting:Interpreter
+  arguments:
+    interpretations:
+    - type: source_node
+      key:
+        name: !jmespath 'station_id'
+      properties:
+        station_name: !jmespath 'station_name'
+      node_type: Station
