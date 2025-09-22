@@ -1,0 +1,25 @@
+station1_id,Station1_name,station2_id,Station2_name,route_id
+37,Kyle of Lochalsh,39,Uig (Skye),bus
+37,Kyle of Lochalsh,38,Armadale (Skye),bus
+26,Garve,47,Ullapool,bus
+12,Lairg,49,Durness,bus
+12,Lairg,50,Tongue,bus
+24,Thurso,51,Scrabster,bus
+1,Inverness,26,Garve,bus
+56,Elgin,88,Lossiemouth,bus
+63,Aberdeen,86,Peterhead,bus
+86,Peterhead,87,Fraserburgh,bus
+,,,,bus
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

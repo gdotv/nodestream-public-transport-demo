@@ -1,0 +1,13 @@
+station1_id,Station1_name,station2_id,Station2_name,route_id
+1,Inverness,53,Inverness Airport,train_1
+53,Inverness Airport,54,Nairn,train_1
+54,Nairn,55,Forres,train_1
+55,Forres,56,Elgin,train_1
+56,Elgin,57,Keith,train_1
+57,Keith,58,Huntly,train_1
+58,Huntly,59,Insch,train_1
+59,Insch,60,Inverurie,train_1
+60,Inverurie,61,Kintore,train_1
+61,Kintore,62,Dyce,train_1
+62,Dyce,63,Aberdeen,train_1
+

@@ -1,0 +1,14 @@
+station1_id,Station1_name,station2_id,Station2_name,route_id
+63,Aberdeen,64,Portlethen,train_4
+64,Portlethen,65,Stonehaven,train_4
+65,Stonehaven,66,Laurencekirk,train_4
+66,Laurencekirk,67,Montrose,train_4
+67,Montrose,68,Arbroath,train_4
+68,Arbroath,69,Carnoustie,train_4
+69,Carnoustie,70,Golf Street,train_4
+70,Golf Street,71,Barry Links,train_4
+71,Barry Links,72,Monifieth,train_4
+72,Monifieth,73,Balmossie,train_4
+73,Balmossie,74,Broughty Ferry,train_4
+74,Broughty Ferry,75,Dundee,train_4
+

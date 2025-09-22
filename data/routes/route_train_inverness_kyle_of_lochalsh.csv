@@ -1,0 +1,17 @@
+station1_id,Station1_name,station2_id,Station2_name,route_id
+1,Inverness,2,Beauly,train_2
+2,Beauly,3,Muir of Ord,train_2
+3,Muir of Ord,4,Dingwall,train_2
+4,Dingwall,26,Garve,train_2
+26,Garve,27,Lochluichart,train_2
+27,Lochluichart,28,Achanalt,train_2
+28,Achanalt,29,Achnasheen,train_2
+29,Achnasheen,30,Achnashellach,train_2
+30,Achnashellach,31,Starthcarron,train_2
+31,Starthcarron,32,Attadale,train_2
+32,Attadale,33,Stromeferry,train_2
+33,Stromeferry,34,Duncraig,train_2
+34,Duncraig,35,Plockton,train_2
+35,Plockton,36,Duirinish,train_2
+36,Duirinish,37,Kyle of Lochalsh,train_2
+
